@@ -1,0 +1,12 @@
+/* style.css */
+
+.centered-content {
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: blue;
+    font-size:  15px;
+    text-align: center;
+    text-size-adjust:  20;
+    background-color: rgb(0, 0, 0);
+  }
+
+  
